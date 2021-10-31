@@ -1,0 +1,35 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    color: rgb(0, 0, 0);
+}
+
+body
+{
+    background-color:rgb(240, 248, 255) ;
+}
+
+header
+{
+    text-align: center;
+    font-weight: bold;
+    padding: 1%;
+}
+
+main
+{
+    text-align: center;
+}
+
+#cep-insert
+{
+    padding: 1%;
+}
+
+#cep, #buttonCep
+{
+    margin: 1rem 0 1rem 0;
+}
